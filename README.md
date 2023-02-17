@@ -1,5 +1,5 @@
 # cosi-Improving-Baseline-Deep-learning-models
-## first notebook(part1)
+## First notebook(part1)
 This work is divided into two notebooks, first notebook(part1) contains the baseline models and experiments to improve that model using different techniques such as data augmentation, increasing filters and layers, dropout, batch normalization and early stopping were investigated. Besides, optimization methods namely learning rate adaptive reduction is also applied to train these neural networks to avoid overfitting. 
 
 In second part of this project(part2), I have trained a classifier on the Cifar100 dataset but rather than building and training a Convolutional Neural Network model from scratch, I have used ResNet50 model pre-trained on the ImageNet dataset as a base. Essentially, this has transfer the knowledge accumulated during the training on a large image dataset with 1000 object classes to a similar, more specific problem – classifying 100 different classes of Cifar100. This work has been divided into two sessions of training as follows
