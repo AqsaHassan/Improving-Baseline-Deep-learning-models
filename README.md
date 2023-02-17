@@ -1,1 +1,2 @@
 # cosi-Improving-Baseline-Deep-learning-models
+This work is divided into two notebooks, first notebook contains the baseline models and experiments to improve that model using different techniques such as data augmentation, increasing filters and layers, dropout, batch normalization and early stopping were investigated. Besides, optimization methods namely learning rate adaptive reduction is also applied to train these neural networks to avoid overfitting. In second notebook, I have used transfer learing methods to improve the model performance on Cifar100 dataset.
